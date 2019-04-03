@@ -16,7 +16,7 @@ const CODE = `
     
     setInterval(function() { 
         window.location.reload(); 
-    }, 360000);
+    }, 180000);
 `;
 
 // Function to query all tabs and get the current active tab
